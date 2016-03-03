@@ -24,6 +24,6 @@ Compile and run. No special packages necessary.
 
 Example:
 
-  g++ -L ./algorithms -L data-structures ./demos/ds/BFSDemo.cpp -o BFSDemo
+    g++ -L ./algorithms -L ./data-structures ./demos/ds/BFSDemo.cpp -o BFSDemo
 
 
