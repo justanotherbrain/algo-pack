@@ -1,6 +1,6 @@
 #include <algorithm>
 #include <time.h>
-#include "Quicksort.h"
+#include "algorithms/Quicksort.h"
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,6 @@
-#include "Queue.h"
-#include "Graph.h"
-#include "BFS.h"
+#include "data-structures/Queue.h"
+#include "data-structures/Graph.h"
+#include "algorithms/BFS.h"
 #include <iostream>
 using namespace std;
 

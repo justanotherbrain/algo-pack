@@ -1,7 +1,7 @@
 #ifndef DFS_H
 #define DFS_H
 
-#include "Graph.h"
+#include "data-structures/Graph.h"
 
 void DFS( AdjList G, Node *v ){
   Node *w;

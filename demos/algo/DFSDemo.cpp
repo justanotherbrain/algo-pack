@@ -1,5 +1,5 @@
-#include "DFS.h"
-#include "Graph.h"
+#include "algorithms/DFS.h"
+#include "data-structures/Graph.h"
 #include <iostream>
 using namespace std;
 

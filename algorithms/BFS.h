@@ -1,8 +1,8 @@
 #ifndef BFS_H
 #define BFS_H
 
-#include "Graph.h"
-#include "Queue.h"
+#include "data-structures/Graph.h"
+#include "data-structures/Queue.h"
 
 void BFS( AdjList G, Node *s ){
   Node *v;

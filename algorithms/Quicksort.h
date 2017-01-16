@@ -1,6 +1,10 @@
 #ifndef QUICKSORT_H
 #define QUICKSORT_H
 
+void quicksort( int, int, int );
+int partition( int*, int, int );
+
+
 void quicksort(int *A, int p, int r){
   if (p < r){
     int q = partition(A, p, r);
